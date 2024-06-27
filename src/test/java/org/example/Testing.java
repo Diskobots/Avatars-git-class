@@ -6,5 +6,6 @@ public class Testing {
         System.out.println("Getting this thing done");
         System.out.println("MONEY MONEY MONEY");
         System.out.println("Push 1");
+        System.out.println("Push 2");
     }
 }
