@@ -7,5 +7,6 @@ public class Testing {
         System.out.println("MONEY MONEY MONEY");
         System.out.println("Push 1");
         System.out.println("Push 2");
+        System.out.println("Push 3");
     }
 }
